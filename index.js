@@ -9,7 +9,7 @@ const port = process.env.PORT || 5000;
 app.use(bodyParser.urlencoded({ extended : true}))
 // require('./routes/feedbackRoute')(app)
 
-app.use(express.static(__dirname + '/views'))
+app.use(express.static(__dirname + '/views/'))
 app.set('views', path.join(__dirname, 'views'))
 app.set('view engine', 'ejs')
 
