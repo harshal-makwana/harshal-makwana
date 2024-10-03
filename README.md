@@ -1,6 +1,6 @@
 # Hi there, I'm [Harshal Makwana] 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer with expertise in [machine learning, Software Engineering ].
+Welcome to my GitHub profile! I'm a passionate software engineer with expertise in **machine learning, Software Engineering**.
 Let's connect and collaborate!
 
 ## 🛠️ Technologies & Tools
