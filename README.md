@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm [Harshal Makwana] 👋
 
-<!--
-**harshal-makwana/harshal-makwana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software engineer with expertise in [machine learning, Software Engineering ].
+Let's connect and collaborate!
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, JavaScript, TypeScript,java,sql
+- **Frameworks**: React, Node.js, TensorFlow, pyTorch
+- **Databases**: MySQL, MongoDB, 
+- **Tools**: Git, Docker, Jenkins, android-studio
+  
+  
+## 💬 Get in Touch
+
+Feel free to reach out to me!
+
+- **Email**: [your.email@example.com](mailto:harshalmakwana84@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/harshal-makwana)
+
+
+Thanks for visiting my profile! 😄
+
