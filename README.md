@@ -15,8 +15,8 @@ Let's connect and collaborate!
 
 Feel free to reach out to me!
 
-- **Email**: [your.email@example.com](mailto:harshalmakwana84@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/harshal-makwana)
+- **Email**: [Email](mailto:harshalmakwana84@gmail.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/harshal-makwana)
 
 
 Thanks for visiting my profile! 😄
